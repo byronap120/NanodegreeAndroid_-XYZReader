@@ -6,3 +6,5 @@
 .DS_Store
 /build
 /captures
+XYZReader/build/outputs
+XYZReader/build/intermediates
