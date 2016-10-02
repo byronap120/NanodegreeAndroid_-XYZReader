@@ -443,7 +443,7 @@ int id photo_container 0x7f0d0048
 int id progress_circular 0x7f0d0005
 int id progress_horizontal 0x7f0d0006
 int id radio 0x7f0d002b
-int id recycler_view 0x7f0d0043
+int id recycler_view 0x7f0d0045
 int id refresh 0x7f0d0051
 int id scrollview 0x7f0d0047
 int id search_badge 0x7f0d0035
@@ -463,12 +463,12 @@ int id showHome 0x7f0d0010
 int id showTitle 0x7f0d0011
 int id split_action_bar 0x7f0d0007
 int id submit_area 0x7f0d003c
-int id swipe_refresh_layout 0x7f0d0042
+int id swipe_refresh_layout 0x7f0d0044
 int id tabMode 0x7f0d000b
 int id thumbnail 0x7f0d004f
 int id title 0x7f0d0027
-int id toolbar 0x7f0d0045
-int id toolbar_container 0x7f0d0044
+int id toolbar 0x7f0d0043
+int id toolbar_container 0x7f0d0042
 int id up 0x7f0d0008
 int id up_container 0x7f0d0040
 int id useLogo 0x7f0d0012

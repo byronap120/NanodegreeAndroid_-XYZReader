@@ -1512,7 +1512,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0d0005;
         public static final int progress_horizontal=0x7f0d0006;
         public static final int radio=0x7f0d002b;
-        public static final int recycler_view=0x7f0d0043;
+        public static final int recycler_view=0x7f0d0045;
         public static final int refresh=0x7f0d0051;
         public static final int scrollview=0x7f0d0047;
         public static final int search_badge=0x7f0d0035;
@@ -1532,12 +1532,12 @@ containing a value of this type.
         public static final int showTitle=0x7f0d0011;
         public static final int split_action_bar=0x7f0d0007;
         public static final int submit_area=0x7f0d003c;
-        public static final int swipe_refresh_layout=0x7f0d0042;
+        public static final int swipe_refresh_layout=0x7f0d0044;
         public static final int tabMode=0x7f0d000b;
         public static final int thumbnail=0x7f0d004f;
         public static final int title=0x7f0d0027;
-        public static final int toolbar=0x7f0d0045;
-        public static final int toolbar_container=0x7f0d0044;
+        public static final int toolbar=0x7f0d0043;
+        public static final int toolbar_container=0x7f0d0042;
         public static final int up=0x7f0d0008;
         public static final int up_container=0x7f0d0040;
         public static final int useLogo=0x7f0d0012;
