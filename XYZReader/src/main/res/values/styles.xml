@@ -30,4 +30,10 @@
         <item name="colorAccent">@color/theme_accent</item>
     </style>
 
+    <style name="ToolBarWithNavigationBack">
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support library compatibility -->
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
 </resources>
