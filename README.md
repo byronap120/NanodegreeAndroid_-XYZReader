@@ -1,5 +1,13 @@
 # NanodegreeAndroid_XYZReader
 
+## Final Result
+
+Here's is the final implementation of this project:
+
+<img src='http://i.imgur.com/D9pDC2B.gif' title='Material App' width='' alt='Material App' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Project Overview
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
@@ -14,10 +22,4 @@ Apply Material Design guidelines to an mobile application.
 Separate an interface into surfaces.
 Effectively use transitions and motion.
 
-## Final Result
 
-Here's is the final implementation of this project:
-
-<img src='http://i.imgur.com/D9pDC2B.gif' title='Material App' width='' alt='Material App' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
