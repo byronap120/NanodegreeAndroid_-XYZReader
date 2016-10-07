@@ -9,4 +9,9 @@
 
     <string name="up">Up</string>
 
+    <string name="title_article_description">Title Article</string>
+    <string name="title_body_description">Title Body</string>
+    <string name="item_list_description">Item List</string>
+    <string name="cover_page_description">Cover Page</string>
+
 </resources>
